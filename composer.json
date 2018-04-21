@@ -1,6 +1,7 @@
 {
     "name": "ondrakoupil/graphql-base-project",
     "type": "project",
+    "description": "My personal template for bootstrapping backends with PHP, Slim and GraphQL. No guarantees.",
     "license": "MIT",
     "authors": [
         {
