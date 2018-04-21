@@ -2,7 +2,7 @@
 
 namespace App\GraphQL\Types;
 
-use LS\Exception;
+use App\Exception;
 use App\GraphQL\TypeRepo;
 use App\GraphQL\UniversalQuery;
 use App\GraphQL\UniversalQueryResolver;

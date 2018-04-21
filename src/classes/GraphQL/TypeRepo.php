@@ -2,7 +2,7 @@
 
 namespace App\GraphQL;
 
-use LS\Exception;
+use App\Exception;
 use App\GraphQL\Types\DateTime;
 use App\GraphQL\Types\Mutation;
 use App\GraphQL\Types\Query;

@@ -2,7 +2,7 @@
 
 namespace App\GraphQL;
 
-use LS\Exception;
+use App\Exception;
 use GraphQL\Type\Definition\InputObjectType;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsToMany;

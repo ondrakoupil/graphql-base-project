@@ -2,7 +2,7 @@
 
 namespace App\Controllers;
 
-use LS\Exception;
+use App\Exception;
 use Slim\Container;
 use Slim\Http\Request;
 use Slim\Http\Response;

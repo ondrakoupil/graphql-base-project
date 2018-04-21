@@ -2,10 +2,10 @@
 
 namespace App\Controllers;
 
-use LS\AppSettings;
-use LS\Exception;
+use App\AppSettings;
+use App\Exception;
 use App\GraphQL\Schema;
-use LS\Logger;
+use App\Logger;
 use GraphQL\Error\Debug;
 use GraphQL\Error\Error;
 use GraphQL\GraphQL;

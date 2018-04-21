@@ -2,8 +2,8 @@
 
 namespace App\Controllers;
 
-use LS\AppSettings;
-use LS\Exception;
+use App\AppSettings;
+use App\Exception;
 use Slim\Container;
 use Slim\Http\Request;
 use Slim\Http\Response;
