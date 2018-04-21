@@ -1,0 +1,55 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "b5d88d255cb9440a680fa941fabce125",
+    "packages": [
+        {
+            "name": "ondrakoupil/tools",
+            "version": "v1.0.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/ondrakoupil/tools.git",
+                "reference": "7ecbe3652e379802fbaabf4fe8f27b96dcbadb22"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/ondrakoupil/tools/zipball/7ecbe3652e379802fbaabf4fe8f27b96dcbadb22",
+                "reference": "7ecbe3652e379802fbaabf4fe8f27b96dcbadb22",
+                "shasum": ""
+            },
+            "require-dev": {
+                "nette/tester": "^1.4@dev",
+                "ondrakoupil/testing-utils": "~0.0.7"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "OndraKoupil\\Tools\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ondrej Koupil",
+                    "email": "koupil@optimato.cz"
+                }
+            ],
+            "description": "Just a bunch of tools for myself",
+            "time": "2017-12-19T10:54:13+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
